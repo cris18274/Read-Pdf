@@ -10,6 +10,7 @@ To install the dependencies, run the following command in your terminal:
 pip install bard pdfminer
 
 Usage
+
 To run the code, save it as a Python file and then run it from the command line. For example, to answer a question about the PDF file my_pdf.pdf, you would run the following command:
 
 python pdf_to_text_question_answering.py my_pdf.pdf
